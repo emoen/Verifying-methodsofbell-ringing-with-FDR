@@ -1,4 +1,4 @@
-# Verifying-methodsofbell-ringing-with-FDR
+# Verifying-methods of bell-ringing-with-FDR
 
 M. Sc. University of Oxford 2004
 Supervisor : Dr Jeff Sanders
